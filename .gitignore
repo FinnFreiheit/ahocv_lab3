@@ -1,0 +1,5 @@
+unet_flowers_clip.pth
+wandb/
+__pycache__/
+*.pyc
+.DS_Store
